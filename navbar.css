@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  background: url("https://static.vecteezy.com/system/resources/previews/011/797/780/non_2x/initial-sp-letter-royal-luxury-logo-template-in-art-for-luxurious-branding-projects-and-other-illustration-vector.jpg");
+  
+    
+    background-color: rgb(181, 201, 226);
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    
+}
+h2{
+    font-weight: 400;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+/* .logo-box {
+  background: orange;
+  color: #fff;
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.logo-text {
+  font-size: 32px;
+  font-weight: 300;
+  margin-left: 10px;
+} */
